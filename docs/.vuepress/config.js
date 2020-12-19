@@ -28,7 +28,7 @@ module.exports = {
 
     sidebar: [
       {
-        title: "核心概念",
+        title: "核心概念哟",
         collapsable: true, //是否展开
         children: [
           ["/核心概念/State", "State"],
